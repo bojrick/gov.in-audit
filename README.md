@@ -1,4 +1,4 @@
-Here is a rewritten Initial Project Readme based on the provided source materials:
+
 
 # Open-Source Evaluation of Indian Government Web Applications for GIGW 3.0 Compliance
 
