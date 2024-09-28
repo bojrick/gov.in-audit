@@ -1,4 +1,4 @@
-```markdown
+
 # Vulnerability Scanning Tools and Expanded Technical Scope
 
 ## Vulnerability Scanning Tools
@@ -40,4 +40,3 @@ Expanding on the initial technical scope, this section provides more detail on t
 - **Adherence to Specific Guidelines**: The evaluation toolchain will be customised to explicitly check for compliance with specific GIGW 3.0 guidelines, such as those related to content organisation, navigation, and accessibility features.
 
 By implementing these detailed technical steps and leveraging the capabilities of open-source tools, the evaluation procedure can effectively assess the compliance of Indian Government websites with GIGW 3.0 guidelines, ultimately contributing to a more secure, accessible, and user-friendly online experience for citizens.
-```
