@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.675.0",
+    "@supabase/supabase-js": "^2.45.6",
+    "chrome-launcher": "^1.1.2",
+    "dotenv": "^16.4.5",
+    "lighthouse": "^12.2.1",
+    "node-fetch": "^2.7.0",
+    "p-limit": "^6.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}

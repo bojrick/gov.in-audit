@@ -1,3 +1,6 @@
 /LICENSE.chromedriver
 /chromedriver
 node_modules/
+.env
+reports/
+.venv/
