@@ -2,6 +2,10 @@
 
 # Open-Source Evaluation of Indian Government Web Applications for GIGW 3.0 Compliance
 
+## Proposed Workflow
+
+![Proposed Workflow](ProcessFlow.png)
+
 ## Project Overview
 
 This project aims to develop an open-source evaluation procedure to assess the compliance of Indian Government web applications with the Guidelines for Indian Government Websites (GIGW) 3.0. The procedure will utilise a combination of automated testing, manual review, and documentation analysis to provide a comprehensive and granular evaluation. This project is particularly important given that a small fraction of Indian Government websites currently meet the required standard. The evaluation procedure will be developed as an open-source project, encouraging contributions and improvements from the community.
